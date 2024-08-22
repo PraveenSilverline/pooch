@@ -1,0 +1,520 @@
+Dog ID,Disease Type,Treatment,Age (Years),Breed,Sentiment,Doctor Rating,Recovery Time (Weeks)
+1,Bacterial Dermatosis,Antibiotics,3,Labrador,Positive,5,1
+2,Fungal Infections,Antifungal medication,5,German Shepherd,Neutral,3,2
+3,Hypersensitivity Allergic,Anti-allergy medication,2,Beagle,Positive,4,1
+4,Bacterial Dermatosis,Antibiotics,7,Bulldog,Negative,2,4
+5,Fungal Infections,Antifungal medication,4,Poodle,Neutral,3,3
+6,Hypersensitivity Allergic,Anti-allergy medication,1,Labrador,Positive,5,1
+7,Bacterial Dermatosis,Antibiotics,6,German Shepherd,Neutral,3,2
+8,Fungal Infections,Antifungal medication,8,Beagle,Positive,4,2
+9,Hypersensitivity Allergic,Anti-allergy medication,3,Bulldog,Negative,2,4
+10,Bacterial Dermatosis,Antibiotics,5,Poodle,Positive,5,1
+11,Fungal Infections,Antifungal medication,2,Labrador,Neutral,3,3
+12,Hypersensitivity Allergic,Anti-allergy medication,6,German Shepherd,Positive,4,1
+13,Bacterial Dermatosis,Antibiotics,4,Beagle,Negative,2,4
+14,Fungal Infections,Antifungal medication,7,Bulldog,Positive,5,2
+15,Hypersensitivity Allergic,Anti-allergy medication,1,Poodle,Neutral,3,3
+16,Bacterial Dermatosis,Antibiotics,3,Labrador,Positive,5,2
+17,Fungal Infections,Antifungal medication,5,German Shepherd,Neutral,3,1
+18,Hypersensitivity Allergic,Anti-allergy medication,2,Beagle,Positive,4,3
+19,Bacterial Dermatosis,Antibiotics,7,Bulldog,Negative,2,2
+20,Fungal Infections,Antifungal medication,4,Poodle,Neutral,3,4
+41,Bacterial Dermatosis,Antibiotics,3,Labrador,Positive,5,2
+42,Fungal Infections,Antifungal medication,5,German Shepherd,Neutral,3,1
+43,Hypersensitivity Allergic,Anti-allergy medication,2,Beagle,Negative,4,3
+44,Bacterial Dermatosis,Antibiotics,7,Bulldog,Positive,2,4
+45,Fungal Infections,Antifungal medication,4,Poodle,Neutral,3,1
+46,Hypersensitivity Allergic,Anti-allergy medication,1,Labrador,Positive,5,2
+47,Bacterial Dermatosis,Antibiotics,6,German Shepherd,Neutral,3,3
+48,Fungal Infections,Antifungal medication,8,Beagle,Negative,2,4
+49,Hypersensitivity Allergic,Anti-allergy medication,3,Bulldog,Positive,4,1
+50,Bacterial Dermatosis,Antibiotics,5,Poodle,Neutral,3,2
+51,Fungal Infections,Antifungal medication,2,Labrador,Positive,3,3
+52,Hypersensitivity Allergic,Anti-allergy medication,6,German Shepherd,Neutral,3,4
+53,Bacterial Dermatosis,Antibiotics,4,Beagle,Negative,2,4
+54,Fungal Infections,Antifungal medication,7,Bulldog,Positive,5,2
+55,Hypersensitivity Allergic,Anti-allergy medication,1,Poodle,Neutral,3,3
+56,Bacterial Dermatosis,Antibiotics,3,Labrador,Positive,5,1
+57,Fungal Infections,Antifungal medication,5,German Shepherd,Neutral,3,2
+58,Hypersensitivity Allergic,Anti-allergy medication,2,Beagle,Negative,4,2
+59,Bacterial Dermatosis,Antibiotics,7,Bulldog,Positive,4,3
+60,Fungal Infections,Antifungal medication,4,Poodle,Neutral,3,4
+41,Bacterial Dermatosis,Antibiotics,3,Labrador,Positive,5,2
+42,Fungal Infections,Antifungal medication,5,German Shepherd,Neutral,3,4
+43,Hypersensitivity Allergic,Anti-allergy medication,2,Beagle,Negative,1,3
+44,Bacterial Dermatosis,Antibiotics,7,Bulldog,Positive,4,4
+45,Fungal Infections,Antifungal medication,4,Poodle,Neutral,3,1
+46,Hypersensitivity Allergic,Anti-allergy medication,1,Labrador,Positive,5,2
+47,Bacterial Dermatosis,Antibiotics,6,German Shepherd,Neutral,3,3
+48,Fungal Infections,Antifungal medication,8,Beagle,Negative,1,4
+49,Hypersensitivity Allergic,Anti-allergy medication,3,Bulldog,Positive,4,1
+50,Bacterial Dermatosis,Antibiotics,5,Poodle,Neutral,3,2
+51,Fungal Infections,Antifungal medication,2,Labrador,Positive,3,3
+52,Hypersensitivity Allergic,Anti-allergy medication,6,German Shepherd,Neutral,4,4
+53,Bacterial Dermatosis,Antibiotics,4,Beagle,Negative,2,3
+54,Fungal Infections,Antifungal medication,7,Bulldog,Positive,5,2
+55,Hypersensitivity Allergic,Anti-allergy medication,1,Poodle,Neutral,3,3
+56,Bacterial Dermatosis,Antibiotics,3,Labrador,Positive,5,1
+57,Fungal Infections,Antifungal medication,5,German Shepherd,Neutral,3,1
+58,Hypersensitivity Allergic,Anti-allergy medication,2,Beagle,Negative,1,4
+59,Bacterial Dermatosis,Antibiotics,7,Bulldog,Positive,4,3
+60,Fungal Infections,Antifungal medication,4,Poodle,Neutral,3,4
+1,Bacterial Dermatosis,Antibiotics,2,Labrador,Positive,5,1
+2,Fungal Infections,Antifungal medication,4,German Shepherd,Neutral,3,2
+3,Hypersensitivity Allergic,Anti-allergy medication,1,Beagle,Positive,4,1
+4,Bacterial Dermatosis,Antibiotics,3,Bulldog,Negative,2,4
+5,Fungal Infections,Antifungal medication,2,Poodle,Neutral,3,3
+6,Hypersensitivity Allergic,Anti-allergy medication,4,Labrador,Positive,5,1
+7,Bacterial Dermatosis,Antibiotics,1,German Shepherd,Neutral,3,2
+8,Fungal Infections,Antifungal medication,2,Beagle,Positive,4,2
+9,Hypersensitivity Allergic,Anti-allergy medication,3,Bulldog,Negative,2,4
+10,Bacterial Dermatosis,Antibiotics,4,Poodle,Positive,5,1
+11,Fungal Infections,Antifungal medication,2,Labrador,Neutral,3,3
+12,Hypersensitivity Allergic,Anti-allergy medication,2,German Shepherd,Positive,4,1
+13,Bacterial Dermatosis,Antibiotics,4,Beagle,Negative,2,4
+14,Fungal Infections,Antifungal medication,6,Bulldog,Positive,5,2
+15,Hypersensitivity Allergic,Anti-allergy medication,2,Poodle,Neutral,3,3
+16,Bacterial Dermatosis,Antibiotics,1,Labrador,Positive,5,2
+17,Fungal Infections,Antifungal medication,7,German Shepherd,Neutral,3,1
+18,Hypersensitivity Allergic,Anti-allergy medication,1,Beagle,Positive,4,3
+1,Bacterial Dermatosis,Antibiotics,1,Labrador,Positive,5,1
+2,Fungal Infections,Antifungal medication,2,German Shepherd,Neutral,3,2
+3,Hypersensitivity Allergic,Anti-allergy medication,3,Beagle,Positive,4,1
+4,Bacterial Dermatosis,Antibiotics,4,Bulldog,Negative,2,4
+5,Fungal Infections,Antifungal medication,5,Poodle,Neutral,3,3
+6,Hypersensitivity Allergic,Anti-allergy medication,1,Labrador,Positive,5,1
+7,Bacterial Dermatosis,Antibiotics,2,German Shepherd,Neutral,3,2
+8,Fungal Infections,Antifungal medication,3,Beagle,Positive,4,2
+9,Hypersensitivity Allergic,Anti-allergy medication,4,Bulldog,Negative,2,4
+10,Bacterial Dermatosis,Antibiotics,5,Poodle,Positive,5,1
+11,Fungal Infections,Antifungal medication,1,Labrador,Neutral,3,3
+12,Hypersensitivity Allergic,Anti-allergy medication,2,German Shepherd,Positive,4,1
+13,Bacterial Dermatosis,Antibiotics,3,Beagle,Negative,2,4
+14,Fungal Infections,Antifungal medication,4,Bulldog,Positive,5,2
+15,Hypersensitivity Allergic,Anti-allergy medication,5,Poodle,Neutral,3,3
+16,Bacterial Dermatosis,Antibiotics,2,Labrador,Positive,5,2
+1,Bacterial Dermatosis,Antibiotics,2,Labrador,Positive,5,1
+2,Fungal Infections,Antifungal medication,3,German Shepherd,Neutral,3,2
+3,Hypersensitivity Allergic,Anti-allergy medication,1,Beagle,Positive,4,1
+4,Bacterial Dermatosis,Antibiotics,4,Bulldog,Negative,2,4
+5,Fungal Infections,Antifungal medication,1,Poodle,Neutral,3,3
+6,Hypersensitivity Allergic,Anti-allergy medication,2,Labrador,Positive,5,1
+7,Bacterial Dermatosis,Antibiotics,2,German Shepherd,Neutral,3,2
+8,Fungal Infections,Antifungal medication,1,Beagle,Positive,4,2
+9,Hypersensitivity Allergic,Anti-allergy medication,1,Bulldog,Negative,2,4
+10,Bacterial Dermatosis,Antibiotics,1,Poodle,Positive,5,1
+11,Fungal Infections,Antifungal medication,3,Labrador,Neutral,3,3
+12,Hypersensitivity Allergic,Anti-allergy medication,5,German Shepherd,Positive,4,1
+13,Bacterial Dermatosis,Antibiotics,3,Beagle,Negative,1,4
+14,Fungal Infections,Antifungal medication,1,Bulldog,Positive,5,2
+15,Hypersensitivity Allergic,Anti-allergy medication,3,Poodle,Neutral,3,3
+16,Bacterial Dermatosis,Antibiotics,5,Labrador,Positive,5,2
+1,Bacterial Dermatosis,Antibiotics,1,Labrador,Positive,5,1
+2,Fungal Infections,Antifungal medication,1,German Shepherd,Neutral,3,2
+3,Hypersensitivity Allergic,Anti-allergy medication,1,Beagle,Positive,4,1
+4,Bacterial Dermatosis,Antibiotics,1,Bulldog,Negative,2,4
+5,Fungal Infections,Antifungal medication,1,Poodle,Neutral,3,3
+6,Hypersensitivity Allergic,Anti-allergy medication,1,Labrador,Positive,5,1
+7,Bacterial Dermatosis,Antibiotics,1,German Shepherd,Neutral,3,2
+8,Fungal Infections,Antifungal medication,1,Beagle,Positive,4,2
+9,Hypersensitivity Allergic,Anti-allergy medication,1,Bulldog,Negative,2,4
+10,Bacterial Dermatosis,Antibiotics,1,Poodle,Positive,5,1
+11,Fungal Infections,Antifungal medication,1,Labrador,Neutral,3,3
+12,Hypersensitivity Allergic,Anti-allergy medication,1,German Shepherd,Positive,4,1
+13,Bacterial Dermatosis,Antibiotics,1,Beagle,Negative,1,4
+14,Fungal Infections,Antifungal medication,1,Bulldog,Positive,5,2
+15,Hypersensitivity Allergic,Anti-allergy medication,1,Poodle,Neutral,3,3
+16,Bacterial Dermatosis,Antibiotics,1,Labrador,Positive,5,2
+1,Bacterial Dermatosis,Antibiotics,2,Labrador,Positive,5,1
+2,Fungal Infections,Antifungal medication,2,German Shepherd,Neutral,3,2
+3,Hypersensitivity Allergic,Anti-allergy medication,2,Beagle,Positive,4,1
+4,Bacterial Dermatosis,Antibiotics,2,Bulldog,Negative,2,4
+5,Fungal Infections,Antifungal medication,2,Poodle,Neutral,3,3
+6,Hypersensitivity Allergic,Anti-allergy medication,2,Labrador,Positive,5,1
+7,Bacterial Dermatosis,Antibiotics,2,German Shepherd,Neutral,3,2
+8,Fungal Infections,Antifungal medication,2,Beagle,Positive,4,2
+9,Hypersensitivity Allergic,Anti-allergy medication,2,Bulldog,Negative,2,4
+10,Bacterial Dermatosis,Antibiotics,2,Poodle,Positive,5,1
+11,Fungal Infections,Antifungal medication,2,Labrador,Neutral,3,3
+12,Hypersensitivity Allergic,Anti-allergy medication,2,German Shepherd,Positive,4,1
+13,Bacterial Dermatosis,Antibiotics,2,Beagle,Negative,1,4
+14,Fungal Infections,Antifungal medication,2,Bulldog,Positive,5,2
+15,Hypersensitivity Allergic,Anti-allergy medication,2,Poodle,Neutral,3,3
+16,Bacterial Dermatosis,Antibiotics,2,Labrador,Positive,5,2
+1,Bacterial Dermatosis,Antibiotics,3,Labrador,Positive,5,1
+2,Fungal Infections,Antifungal medication,3,German Shepherd,Neutral,3,2
+3,Hypersensitivity Allergic,Anti-allergy medication,3,Beagle,Positive,4,1
+4,Bacterial Dermatosis,Antibiotics,3,Bulldog,Negative,2,4
+5,Fungal Infections,Antifungal medication,3,Poodle,Neutral,3,3
+6,Hypersensitivity Allergic,Anti-allergy medication,3,Labrador,Positive,5,1
+7,Bacterial Dermatosis,Antibiotics,3,German Shepherd,Neutral,3,2
+8,Fungal Infections,Antifungal medication,3,Beagle,Positive,4,2
+9,Hypersensitivity Allergic,Anti-allergy medication,3,Bulldog,Negative,2,4
+10,Bacterial Dermatosis,Antibiotics,3,Poodle,Positive,5,1
+11,Fungal Infections,Antifungal medication,3,Labrador,Neutral,3,3
+12,Hypersensitivity Allergic,Anti-allergy medication,3,German Shepherd,Positive,4,1
+13,Bacterial Dermatosis,Antibiotics,3,Beagle,Negative,1,4
+14,Fungal Infections,Antifungal medication,3,Bulldog,Positive,5,2
+15,Hypersensitivity Allergic,Anti-allergy medication,3,Poodle,Neutral,3,3
+16,Bacterial Dermatosis,Antibiotics,3,Labrador,Positive,5,2
+1,Bacterial Dermatosis,Antibiotics,4,Labrador,Positive,5,1
+2,Fungal Infections,Antifungal medication,4,German Shepherd,Neutral,3,2
+3,Hypersensitivity Allergic,Anti-allergy medication,4,Beagle,Positive,4,1
+4,Bacterial Dermatosis,Antibiotics,4,Bulldog,Negative,2,4
+5,Fungal Infections,Antifungal medication,4,Poodle,Neutral,3,3
+6,Hypersensitivity Allergic,Anti-allergy medication,4,Labrador,Positive,5,1
+7,Bacterial Dermatosis,Antibiotics,4,German Shepherd,Neutral,3,2
+8,Fungal Infections,Antifungal medication,4,Beagle,Positive,4,2
+9,Hypersensitivity Allergic,Anti-allergy medication,4,Bulldog,Negative,2,4
+10,Bacterial Dermatosis,Antibiotics,4,Poodle,Positive,5,1
+11,Fungal Infections,Antifungal medication,4,Labrador,Neutral,3,3
+12,Hypersensitivity Allergic,Anti-allergy medication,4,German Shepherd,Positive,4,1
+13,Bacterial Dermatosis,Antibiotics,4,Beagle,Negative,1,4
+14,Fungal Infections,Antifungal medication,4,Bulldog,Positive,5,2
+15,Hypersensitivity Allergic,Anti-allergy medication,4,Poodle,Neutral,3,3
+16,Bacterial Dermatosis,Antibiotics,4,Labrador,Positive,5,2
+1,Bacterial Dermatosis,Antibiotics,5,Labrador,Positive,5,1
+2,Fungal Infections,Antifungal medication,5,German Shepherd,Neutral,3,2
+3,Hypersensitivity Allergic,Anti-allergy medication,5,Beagle,Positive,4,1
+4,Bacterial Dermatosis,Antibiotics,5,Bulldog,Negative,2,4
+5,Fungal Infections,Antifungal medication,5,Poodle,Neutral,3,3
+6,Hypersensitivity Allergic,Anti-allergy medication,5,Labrador,Positive,5,1
+7,Bacterial Dermatosis,Antibiotics,5,German Shepherd,Neutral,3,2
+8,Fungal Infections,Antifungal medication,5,Beagle,Positive,4,2
+9,Hypersensitivity Allergic,Anti-allergy medication,5,Bulldog,Negative,2,4
+10,Bacterial Dermatosis,Antibiotics,5,Poodle,Positive,5,1
+11,Fungal Infections,Antifungal medication,5,Labrador,Neutral,3,3
+12,Hypersensitivity Allergic,Anti-allergy medication,5,German Shepherd,Positive,4,1
+13,Bacterial Dermatosis,Antibiotics,5,Beagle,Negative,1,4
+14,Fungal Infections,Antifungal medication,5,Bulldog,Positive,5,2
+15,Hypersensitivity Allergic,Anti-allergy medication,5,Poodle,Neutral,3,3
+16,Bacterial Dermatosis,Antibiotics,5,Labrador,Positive,5,2
+1,Bacterial Dermatosis,Antibiotics,6,Labrador,Positive,5,1
+2,Fungal Infections,Antifungal medication,6,German Shepherd,Neutral,3,2
+3,Hypersensitivity Allergic,Anti-allergy medication,6,Beagle,Positive,4,1
+4,Bacterial Dermatosis,Antibiotics,6,Bulldog,Negative,2,4
+5,Fungal Infections,Antifungal medication,6,Poodle,Neutral,3,3
+6,Hypersensitivity Allergic,Anti-allergy medication,6,Labrador,Positive,5,1
+7,Bacterial Dermatosis,Antibiotics,6,German Shepherd,Neutral,3,2
+8,Fungal Infections,Antifungal medication,6,Beagle,Positive,4,2
+9,Hypersensitivity Allergic,Anti-allergy medication,6,Bulldog,Negative,2,4
+10,Bacterial Dermatosis,Antibiotics,6,Poodle,Positive,5,1
+11,Fungal Infections,Antifungal medication,6,Labrador,Neutral,3,3
+12,Hypersensitivity Allergic,Anti-allergy medication,6,German Shepherd,Positive,4,1
+13,Bacterial Dermatosis,Antibiotics,6,Beagle,Negative,1,4
+14,Fungal Infections,Antifungal medication,6,Bulldog,Positive,5,2
+15,Hypersensitivity Allergic,Anti-allergy medication,6,Poodle,Neutral,3,3
+16,Bacterial Dermatosis,Antibiotics,6,Labrador,Positive,5,2
+1,Bacterial Dermatosis,Antibiotics,7,Labrador,Positive,5,1
+2,Fungal Infections,Antifungal medication,7,German Shepherd,Neutral,3,2
+3,Hypersensitivity Allergic,Anti-allergy medication,7,Beagle,Positive,4,1
+4,Bacterial Dermatosis,Antibiotics,7,Bulldog,Negative,2,4
+5,Fungal Infections,Antifungal medication,7,Poodle,Neutral,3,3
+6,Hypersensitivity Allergic,Anti-allergy medication,7,Labrador,Positive,5,1
+7,Bacterial Dermatosis,Antibiotics,7,German Shepherd,Neutral,3,2
+8,Fungal Infections,Antifungal medication,7,Beagle,Positive,4,2
+9,Hypersensitivity Allergic,Anti-allergy medication,7,Bulldog,Negative,2,4
+10,Bacterial Dermatosis,Antibiotics,7,Poodle,Positive,5,1
+11,Fungal Infections,Antifungal medication,7,Labrador,Neutral,3,3
+12,Hypersensitivity Allergic,Anti-allergy medication,7,German Shepherd,Positive,4,1
+13,Bacterial Dermatosis,Antibiotics,7,Beagle,Negative,1,4
+14,Fungal Infections,Antifungal medication,7,Bulldog,Positive,5,2
+15,Hypersensitivity Allergic,Anti-allergy medication,7,Poodle,Neutral,3,3
+16,Bacterial Dermatosis,Antibiotics,7,Labrador,Positive,5,2
+1,Bacterial Dermatosis,Antibiotics,7,Labrador,Positive,5,1
+2,Fungal Infections,Antifungal medication,6,German Shepherd,Neutral,3,2
+3,Hypersensitivity Allergic,Anti-allergy medication,5,Beagle,Positive,4,1
+4,Bacterial Dermatosis,Antibiotics,4,Bulldog,Negative,2,4
+5,Fungal Infections,Antifungal medication,3,Poodle,Neutral,3,3
+6,Hypersensitivity Allergic,Anti-allergy medication,2,Labrador,Positive,5,1
+7,Bacterial Dermatosis,Antibiotics,1,German Shepherd,Neutral,3,2
+8,Fungal Infections,Antifungal medication,4,Beagle,Positive,4,2
+9,Hypersensitivity Allergic,Anti-allergy medication,5,Bulldog,Negative,2,4
+10,Bacterial Dermatosis,Antibiotics,6,Poodle,Positive,5,1
+11,Fungal Infections,Antifungal medication,3,Labrador,Neutral,3,3
+12,Hypersensitivity Allergic,Anti-allergy medication,2,German Shepherd,Positive,4,1
+13,Bacterial Dermatosis,Antibiotics,1,Beagle,Negative,1,4
+14,Fungal Infections,Antifungal medication,4,Bulldog,Positive,5,2
+15,Hypersensitivity Allergic,Anti-allergy medication,3,Poodle,Neutral,3,3
+16,Bacterial Dermatosis,Antibiotics,5,Labrador,Positive,5,2
+1,Bacterial Dermatosis,Antibiotics,1,Labrador,Positive,5,1
+2,Fungal Infections,Antifungal medication,3,German Shepherd,Neutral,3,2
+3,Hypersensitivity Allergic,Anti-allergy medication,4,Beagle,Positive,4,1
+4,Bacterial Dermatosis,Antibiotics,5,Bulldog,Negative,2,4
+5,Fungal Infections,Antifungal medication,5,Poodle,Neutral,3,3
+6,Hypersensitivity Allergic,Anti-allergy medication,5,Labrador,Positive,5,1
+7,Bacterial Dermatosis,Antibiotics,5,German Shepherd,Neutral,3,2
+8,Fungal Infections,Antifungal medication,4,Beagle,Positive,4,2
+9,Hypersensitivity Allergic,Anti-allergy medication,3,Bulldog,Negative,2,4
+10,Bacterial Dermatosis,Antibiotics,6,Poodle,Positive,5,1
+11,Fungal Infections,Antifungal medication,1,Labrador,Neutral,3,3
+12,Hypersensitivity Allergic,Anti-allergy medication,2,German Shepherd,Positive,4,1
+13,Bacterial Dermatosis,Antibiotics,6,Beagle,Negative,1,4
+14,Fungal Infections,Antifungal medication,4,Bulldog,Positive,5,2
+15,Hypersensitivity Allergic,Anti-allergy medication,4,Poodle,Neutral,3,3
+16,Bacterial Dermatosis,Antibiotics,2,Labrador,Positive,5,2
+1,Bacterial Dermatosis,Antibiotics,2,Labrador,Positive,5,1
+2,Fungal Infections,Antifungal medication,2,German Shepherd,Neutral,3,2
+3,Hypersensitivity Allergic,Anti-allergy medication,1,Beagle,Positive,4,1
+4,Bacterial Dermatosis,Antibiotics,2,Bulldog,Negative,2,4
+5,Fungal Infections,Antifungal medication,1,Poodle,Neutral,3,3
+6,Hypersensitivity Allergic,Anti-allergy medication,1,Labrador,Positive,5,1
+7,Bacterial Dermatosis,Antibiotics,3,German Shepherd,Neutral,3,2
+8,Fungal Infections,Antifungal medication,2,Beagle,Positive,4,2
+9,Hypersensitivity Allergic,Anti-allergy medication,1,Bulldog,Negative,2,4
+10,Bacterial Dermatosis,Antibiotics,2,Poodle,Positive,5,1
+11,Fungal Infections,Antifungal medication,3,Labrador,Neutral,3,3
+12,Hypersensitivity Allergic,Anti-allergy medication,2,German Shepherd,Positive,4,1
+13,Bacterial Dermatosis,Antibiotics,1,Beagle,Negative,1,4
+14,Fungal Infections,Antifungal medication,4,Bulldog,Positive,5,2
+15,Hypersensitivity Allergic,Anti-allergy medication,2,Poodle,Neutral,3,3
+16,Bacterial Dermatosis,Antibiotics,2,Labrador,Positive,5,2
+18,Hypersensitivity Allergic,Anti-allergy medication,1,Beagle,Positive,4,3
+19,Bacterial Dermatosis,Antibiotics,1,Bulldog,Negative,2,2
+20,Fungal Infections,Antifungal medication,2,Poodle,Neutral,3,4
+41,Bacterial Dermatosis,Antibiotics,2,Labrador,Positive,5,2
+42,Fungal Infections,Antifungal medication,4,German Shepherd,Neutral,3,1
+43,Hypersensitivity Allergic,Anti-allergy medication,3,Beagle,Negative,4,3
+44,Bacterial Dermatosis,Antibiotics,2,Bulldog,Positive,2,4
+45,Fungal Infections,Antifungal medication,3,Poodle,Neutral,3,1
+46,Hypersensitivity Allergic,Anti-allergy medication,1,Labrador,Positive,5,2
+47,Bacterial Dermatosis,Antibiotics,2,German Shepherd,Neutral,3,3
+48,Fungal Infections,Antifungal medication,1,Beagle,Negative,2,4
+49,Hypersensitivity Allergic,Anti-allergy medication,2,Bulldog,Positive,4,1
+50,Bacterial Dermatosis,Antibiotics,1,Poodle,Neutral,3,2
+51,Fungal Infections,Antifungal medication,3,Labrador,Positive,3,3
+52,Hypersensitivity Allergic,Anti-allergy medication,6,German Shepherd,Neutral,3,4
+53,Bacterial Dermatosis,Antibiotics,3,Beagle,Negative,2,4
+54,Fungal Infections,Antifungal medication,2,Bulldog,Positive,5,2
+10,Bacterial Dermatosis,Antibiotics,1,Poodle,Positive,5,1
+11,Fungal Infections,Antifungal medication,1,Labrador,Neutral,3,3
+12,Hypersensitivity Allergic,Anti-allergy medication,4,German Shepherd,Positive,4,1
+13,Bacterial Dermatosis,Antibiotics,2,Beagle,Negative,1,4
+14,Fungal Infections,Antifungal medication,3,Bulldog,Positive,5,2
+15,Hypersensitivity Allergic,Anti-allergy medication,6,Poodle,Neutral,3,3
+16,Bacterial Dermatosis,Antibiotics,5,Labrador,Positive,5,2
+18,Hypersensitivity Allergic,Anti-allergy medication,4,Beagle,Positive,4,3
+19,Bacterial Dermatosis,Antibiotics,3,Bulldog,Negative,2,2
+20,Fungal Infections,Antifungal medication,3,Poodle,Neutral,3,4
+41,Bacterial Dermatosis,Antibiotics,5,Labrador,Positive,5,2
+42,Fungal Infections,Antifungal medication,7,German Shepherd,Neutral,3,1
+43,Hypersensitivity Allergic,Anti-allergy medication,1,Beagle,Negative,4,3
+44,Bacterial Dermatosis,Antibiotics,1,Bulldog,Positive,2,4
+45,Fungal Infections,Antifungal medication,2,Poodle,Neutral,3,1
+46,Hypersensitivity Allergic,Anti-allergy medication,2,Labrador,Positive,5,2
+47,Bacterial Dermatosis,Antibiotics,4,German Shepherd,Neutral,3,3
+48,Fungal Infections,Antifungal medication,3,Beagle,Negative,2,4
+49,Hypersensitivity Allergic,Anti-allergy medication,4,Bulldog,Positive,4,1
+50,Bacterial Dermatosis,Antibiotics,4,Poodle,Neutral,3,2
+51,Fungal Infections,Antifungal medication,5,Labrador,Positive,3,3
+52,Hypersensitivity Allergic,Anti-allergy medication,3,German Shepherd,Neutral,3,4
+53,Bacterial Dermatosis,Antibiotics,2,Beagle,Negative,2,4
+54,Fungal Infections,Antifungal medication,1,Bulldog,Positive,5,2
+5,Fungal Infections,Antifungal medication,1,Poodle,Neutral,3,3
+6,Hypersensitivity Allergic,Anti-allergy medication,2,Labrador,Positive,5,1
+7,Bacterial Dermatosis,Antibiotics,1,German Shepherd,Neutral,3,2
+8,Fungal Infections,Antifungal medication,2,Beagle,Positive,4,2
+9,Hypersensitivity Allergic,Anti-allergy medication,3,Bulldog,Negative,2,4
+10,Bacterial Dermatosis,Antibiotics,4,Poodle,Positive,5,1
+11,Fungal Infections,Antifungal medication,2,Labrador,Neutral,3,3
+12,Hypersensitivity Allergic,Anti-allergy medication,1,German Shepherd,Positive,4,1
+13,Bacterial Dermatosis,Antibiotics,2,Beagle,Negative,1,4
+14,Fungal Infections,Antifungal medication,1,Bulldog,Positive,5,2
+15,Hypersensitivity Allergic,Anti-allergy medication,3,Poodle,Neutral,3,3
+16,Bacterial Dermatosis,Antibiotics,6,Labrador,Positive,5,2
+1,Bacterial Dermatosis,Antibiotics,5,Labrador,Positive,5,1
+2,Fungal Infections,Antifungal medication,4,German Shepherd,Neutral,3,2
+3,Hypersensitivity Allergic,Anti-allergy medication,3,Beagle,Positive,4,1
+4,Bacterial Dermatosis,Antibiotics,6,Bulldog,Negative,2,4
+5,Fungal Infections,Antifungal medication,4,Poodle,Neutral,3,3
+6,Hypersensitivity Allergic,Anti-allergy medication,3,Labrador,Positive,5,1
+7,Bacterial Dermatosis,Antibiotics,5,German Shepherd,Neutral,3,2
+8,Fungal Infections,Antifungal medication,3,Beagle,Positive,4,2
+9,Hypersensitivity Allergic,Anti-allergy medication,2,Bulldog,Negative,2,4
+10,Bacterial Dermatosis,Antibiotics,4,Poodle,Positive,5,1
+11,Fungal Infections,Antifungal medication,5,Labrador,Neutral,3,3
+12,Hypersensitivity Allergic,Anti-allergy medication,6,German Shepherd,Positive,4,1
+13,Bacterial Dermatosis,Antibiotics,4,Beagle,Negative,1,4
+14,Fungal Infections,Antifungal medication,3,Bulldog,Positive,5,2
+15,Hypersensitivity Allergic,Anti-allergy medication,1,Poodle,Neutral,3,3
+16,Bacterial Dermatosis,Antibiotics,2,Labrador,Positive,5,2
+1,Bacterial Dermatosis,Antibiotics,3,Labrador,Positive,5,1
+2,Fungal Infections,Antifungal medication,4,German Shepherd,Neutral,3,2
+3,Hypersensitivity Allergic,Anti-allergy medication,2,Beagle,Positive,4,1
+4,Bacterial Dermatosis,Antibiotics,1,Bulldog,Negative,2,4
+5,Fungal Infections,Antifungal medication,1,Poodle,Neutral,3,3
+6,Hypersensitivity Allergic,Anti-allergy medication,4,Labrador,Positive,5,1
+7,Bacterial Dermatosis,Antibiotics,3,German Shepherd,Neutral,3,2
+8,Fungal Infections,Antifungal medication,2,Beagle,Positive,4,2
+9,Hypersensitivity Allergic,Anti-allergy medication,1,Bulldog,Negative,2,4
+10,Bacterial Dermatosis,Antibiotics,1,Poodle,Positive,5,1
+11,Fungal Infections,Antifungal medication,3,Labrador,Neutral,3,3
+12,Hypersensitivity Allergic,Anti-allergy medication,4,German Shepherd,Positive,4,1
+13,Bacterial Dermatosis,Antibiotics,5,Beagle,Negative,1,4
+14,Fungal Infections,Antifungal medication,6,Bulldog,Positive,5,2
+15,Hypersensitivity Allergic,Anti-allergy medication,1,Poodle,Neutral,3,3
+16,Bacterial Dermatosis,Antibiotics,1,Labrador,Positive,5,2
+1,Bacterial Dermatosis,Antibiotics,2,Labrador,Positive,5,1
+2,Fungal Infections,Antifungal medication,4,German Shepherd,Neutral,3,2
+3,Hypersensitivity Allergic,Anti-allergy medication,5,Beagle,Positive,4,1
+4,Bacterial Dermatosis,Antibiotics,3,Bulldog,Negative,2,4
+5,Fungal Infections,Antifungal medication,2,Poodle,Neutral,3,3
+6,Hypersensitivity Allergic,Anti-allergy medication,6,Labrador,Positive,5,1
+7,Bacterial Dermatosis,Antibiotics,1,German Shepherd,Neutral,3,2
+8,Fungal Infections,Antifungal medication,3,Beagle,Positive,4,2
+9,Hypersensitivity Allergic,Anti-allergy medication,1,Bulldog,Negative,2,4
+10,Bacterial Dermatosis,Antibiotics,4,Poodle,Positive,5,1
+11,Fungal Infections,Antifungal medication,2,Labrador,Neutral,3,3
+12,Hypersensitivity Allergic,Anti-allergy medication,1,German Shepherd,Positive,4,1
+13,Bacterial Dermatosis,Antibiotics,2,Beagle,Negative,1,4
+14,Fungal Infections,Antifungal medication,3,Bulldog,Positive,5,2
+15,Hypersensitivity Allergic,Anti-allergy medication,1,Poodle,Neutral,3,3
+16,Bacterial Dermatosis,Antibiotics,4,Labrador,Positive,5,2
+18,Hypersensitivity Allergic,Anti-allergy medication,1,Beagle,Positive,4,3
+19,Bacterial Dermatosis,Antibiotics,3,Bulldog,Negative,2,2
+20,Fungal Infections,Antifungal medication,4,Poodle,Neutral,3,4
+41,Bacterial Dermatosis,Antibiotics,2,Labrador,Positive,5,2
+42,Fungal Infections,Antifungal medication,3,German Shepherd,Neutral,3,1
+43,Hypersensitivity Allergic,Anti-allergy medication,1,Beagle,Negative,4,3
+44,Bacterial Dermatosis,Antibiotics,4,Bulldog,Positive,2,4
+45,Fungal Infections,Antifungal medication,1,Poodle,Neutral,3,1
+46,Hypersensitivity Allergic,Anti-allergy medication,2,Labrador,Positive,5,2
+47,Bacterial Dermatosis,Antibiotics,4,German Shepherd,Neutral,3,3
+48,Fungal Infections,Antifungal medication,4,Beagle,Negative,2,4
+49,Hypersensitivity Allergic,Anti-allergy medication,3,Bulldog,Positive,4,1
+50,Bacterial Dermatosis,Antibiotics,2,Poodle,Neutral,3,2
+51,Fungal Infections,Antifungal medication,4,Labrador,Positive,3,3
+52,Hypersensitivity Allergic,Anti-allergy medication,5,German Shepherd,Neutral,3,4
+53,Bacterial Dermatosis,Antibiotics,1,Beagle,Negative,2,4
+54,Fungal Infections,Antifungal medication,1,Bulldog,Positive,5,2
+10,Bacterial Dermatosis,Antibiotics,2,Poodle,Positive,5,1
+11,Fungal Infections,Antifungal medication,2,Labrador,Neutral,3,3
+12,Hypersensitivity Allergic,Anti-allergy medication,4,German Shepherd,Positive,4,1
+13,Bacterial Dermatosis,Antibiotics,3,Beagle,Negative,1,4
+14,Fungal Infections,Antifungal medication,4,Bulldog,Positive,5,2
+15,Hypersensitivity Allergic,Anti-allergy medication,4,Poodle,Neutral,3,3
+16,Bacterial Dermatosis,Antibiotics,3,Labrador,Positive,5,2
+18,Hypersensitivity Allergic,Anti-allergy medication,4,Beagle,Positive,4,3
+19,Bacterial Dermatosis,Antibiotics,3,Bulldog,Negative,2,2
+20,Fungal Infections,Antifungal medication,4,Poodle,Neutral,3,4
+41,Bacterial Dermatosis,Antibiotics,2,Labrador,Positive,5,2
+42,Fungal Infections,Antifungal medication,5,German Shepherd,Neutral,3,1
+43,Hypersensitivity Allergic,Anti-allergy medication,1,Beagle,Negative,4,3
+44,Bacterial Dermatosis,Antibiotics,3,Bulldog,Positive,2,4
+45,Fungal Infections,Antifungal medication,2,Poodle,Neutral,3,1
+46,Hypersensitivity Allergic,Anti-allergy medication,3,Labrador,Positive,5,2
+47,Bacterial Dermatosis,Antibiotics,5,German Shepherd,Neutral,3,3
+48,Fungal Infections,Antifungal medication,2,Beagle,Negative,2,4
+49,Hypersensitivity Allergic,Anti-allergy medication,6,Bulldog,Positive,4,1
+50,Bacterial Dermatosis,Antibiotics,7,Poodle,Neutral,3,2
+51,Fungal Infections,Antifungal medication,2,Labrador,Positive,3,3
+52,Hypersensitivity Allergic,Anti-allergy medication,4,German Shepherd,Neutral,3,4
+53,Bacterial Dermatosis,Antibiotics,3,Beagle,Negative,2,4
+54,Fungal Infections,Antifungal medication,2,Bulldog,Positive,5,2
+1,Bacterial Dermatosis,Antibiotics,1,Labrador,Positive,5,1
+2,Fungal Infections,Antifungal medication,2,German Shepherd,Neutral,3,2
+3,Hypersensitivity Allergic,Anti-allergy medication,3,Beagle,Positive,4,1
+4,Bacterial Dermatosis,Antibiotics,2,Bulldog,Negative,2,4
+5,Fungal Infections,Antifungal medication,1,Poodle,Neutral,3,3
+6,Hypersensitivity Allergic,Anti-allergy medication,4,Labrador,Positive,5,1
+7,Bacterial Dermatosis,Antibiotics,5,German Shepherd,Neutral,3,2
+8,Fungal Infections,Antifungal medication,3,Beagle,Positive,4,2
+9,Hypersensitivity Allergic,Anti-allergy medication,2,Bulldog,Negative,2,4
+10,Bacterial Dermatosis,Antibiotics,1,Poodle,Positive,5,1
+11,Fungal Infections,Antifungal medication,3,Labrador,Neutral,3,3
+12,Hypersensitivity Allergic,Anti-allergy medication,1,German Shepherd,Positive,4,1
+13,Bacterial Dermatosis,Antibiotics,4,Beagle,Negative,2,4
+14,Fungal Infections,Antifungal medication,5,Bulldog,Positive,5,2
+15,Hypersensitivity Allergic,Anti-allergy medication,6,Poodle,Neutral,3,3
+16,Bacterial Dermatosis,Antibiotics,7,Labrador,Positive,5,2
+17,Fungal Infections,Antifungal medication,3,German Shepherd,Neutral,3,1
+18,Hypersensitivity Allergic,Anti-allergy medication,4,Beagle,Positive,4,3
+19,Bacterial Dermatosis,Antibiotics,2,Bulldog,Negative,2,2
+20,Fungal Infections,Antifungal medication,5,Poodle,Neutral,3,4
+41,Bacterial Dermatosis,Antibiotics,6,Labrador,Positive,5,2
+42,Fungal Infections,Antifungal medication,7,German Shepherd,Neutral,3,1
+43,Hypersensitivity Allergic,Anti-allergy medication,4,Beagle,Negative,4,3
+44,Bacterial Dermatosis,Antibiotics,1,Bulldog,Positive,2,4
+45,Fungal Infections,Antifungal medication,2,Poodle,Neutral,3,1
+46,Hypersensitivity Allergic,Anti-allergy medication,3,Labrador,Positive,5,2
+47,Bacterial Dermatosis,Antibiotics,4,German Shepherd,Neutral,3,3
+48,Fungal Infections,Antifungal medication,5,Beagle,Negative,2,4
+49,Hypersensitivity Allergic,Anti-allergy medication,3,Bulldog,Positive,4,1
+50,Bacterial Dermatosis,Antibiotics,1,Poodle,Neutral,3,2
+51,Fungal Infections,Antifungal medication,2,Labrador,Positive,3,3
+52,Hypersensitivity Allergic,Anti-allergy medication,3,German Shepherd,Neutral,3,4
+53,Bacterial Dermatosis,Antibiotics,6,Beagle,Negative,2,4
+54,Fungal Infections,Antifungal medication,7,Bulldog,Positive,5,2
+55,Hypersensitivity Allergic,Anti-allergy medication,4,Poodle,Neutral,3,3
+56,Bacterial Dermatosis,Antibiotics,2,Labrador,Positive,5,1
+57,Fungal Infections,Antifungal medication,3,German Shepherd,Neutral,3,2
+58,Hypersensitivity Allergic,Anti-allergy medication,5,Beagle,Negative,4,2
+59,Bacterial Dermatosis,Antibiotics,6,Bulldog,Positive,4,3
+60,Fungal Infections,Antifungal medication,7,Poodle,Neutral,3,4
+41,Bacterial Dermatosis,Antibiotics,5,Labrador,Positive,5,2
+42,Fungal Infections,Antifungal medication,5,German Shepherd,Neutral,3,4
+43,Hypersensitivity Allergic,Anti-allergy medication,3,Beagle,Negative,1,3
+44,Bacterial Dermatosis,Antibiotics,2,Bulldog,Positive,4,4
+45,Fungal Infections,Antifungal medication,3,Poodle,Neutral,3,1
+46,Hypersensitivity Allergic,Anti-allergy medication,4,Labrador,Positive,5,2
+47,Bacterial Dermatosis,Antibiotics,5,German Shepherd,Neutral,3,3
+48,Fungal Infections,Antifungal medication,6,Beagle,Negative,1,4
+49,Hypersensitivity Allergic,Anti-allergy medication,7,Bulldog,Positive,4,1
+50,Bacterial Dermatosis,Antibiotics,5,Poodle,Neutral,3,2
+51,Fungal Infections,Antifungal medication,1,Labrador,Positive,3,3
+52,Hypersensitivity Allergic,Anti-allergy medication,2,German Shepherd,Neutral,4,4
+53,Bacterial Dermatosis,Antibiotics,3,Beagle,Negative,2,3
+54,Fungal Infections,Antifungal medication,4,Bulldog,Positive,5,2
+55,Hypersensitivity Allergic,Anti-allergy medication,6,Poodle,Neutral,3,3
+56,Bacterial Dermatosis,Antibiotics,5,Labrador,Positive,5,1
+57,Fungal Infections,Antifungal medication,4,German Shepherd,Neutral,3,1
+58,Hypersensitivity Allergic,Anti-allergy medication,3,Beagle,Negative,1,4
+59,Bacterial Dermatosis,Antibiotics,2,Bulldog,Positive,4,3
+60,Fungal Infections,Antifungal medication,1,Poodle,Neutral,3,4
+1,Bacterial Dermatosis,Antibiotics,3,Labrador,Positive,5,1
+2,Fungal Infections,Antifungal medication,4,German Shepherd,Neutral,3,2
+3,Hypersensitivity Allergic,Anti-allergy medication,5,Beagle,Positive,4,1
+4,Bacterial Dermatosis,Antibiotics,6,Bulldog,Negative,2,4
+5,Fungal Infections,Antifungal medication,7,Poodle,Neutral,3,3
+6,Hypersensitivity Allergic,Anti-allergy medication,4,Labrador,Positive,5,1
+7,Bacterial Dermatosis,Antibiotics,3,German Shepherd,Neutral,3,2
+8,Fungal Infections,Antifungal medication,2,Beagle,Positive,4,2
+9,Hypersensitivity Allergic,Anti-allergy medication,1,Bulldog,Negative,2,4
+10,Bacterial Dermatosis,Antibiotics,4,Poodle,Positive,5,1
+11,Fungal Infections,Antifungal medication,5,Labrador,Neutral,3,3
+12,Hypersensitivity Allergic,Anti-allergy medication,6,German Shepherd,Positive,4,1
+13,Bacterial Dermatosis,Antibiotics,3,Beagle,Negative,2,4
+14,Fungal Infections,Antifungal medication,2,Bulldog,Positive,5,2
+15,Hypersensitivity Allergic,Anti-allergy medication,1,Poodle,Neutral,3,3
+16,Bacterial Dermatosis,Antibiotics,5,Labrador,Positive,5,2
+17,Fungal Infections,Antifungal medication,7,German Shepherd,Neutral,3,1
+18,Hypersensitivity Allergic,Anti-allergy medication,4,Beagle,Positive,4,3
+1,Bacterial Dermatosis,Antibiotics,2,Labrador,Positive,5,1
+2,Fungal Infections,Antifungal medication,1,German Shepherd,Neutral,3,2
+3,Hypersensitivity Allergic,Anti-allergy medication,5,Beagle,Positive,4,1
+4,Bacterial Dermatosis,Antibiotics,1,Bulldog,Negative,2,4
+5,Fungal Infections,Antifungal medication,4,Poodle,Neutral,3,3
+6,Hypersensitivity Allergic,Anti-allergy medication,6,Labrador,Positive,5,1
+7,Bacterial Dermatosis,Antibiotics,3,German Shepherd,Neutral,3,2
+8,Fungal Infections,Antifungal medication,5,Beagle,Positive,4,2
+9,Hypersensitivity Allergic,Anti-allergy medication,2,Bulldog,Negative,2,4
+10,Bacterial Dermatosis,Antibiotics,6,Poodle,Positive,5,1
+11,Fungal Infections,Antifungal medication,1,Labrador,Neutral,3,3
+12,Hypersensitivity Allergic,Anti-allergy medication,7,German Shepherd,Positive,4,1
+13,Bacterial Dermatosis,Antibiotics,2,Beagle,Negative,2,4
+14,Fungal Infections,Antifungal medication,7,Bulldog,Positive,5,2
+15,Hypersensitivity Allergic,Anti-allergy medication,2,Poodle,Neutral,3,3
+16,Bacterial Dermatosis,Antibiotics,1,Labrador,Positive,5,2
+1,Bacterial Dermatosis,Antibiotics,7,Labrador,Positive,5,1
+2,Fungal Infections,Antifungal medication,2,German Shepherd,Neutral,3,2
+3,Hypersensitivity Allergic,Anti-allergy medication,4,Beagle,Positive,4,1
+4,Bacterial Dermatosis,Antibiotics,7,Bulldog,Negative,2,4
+5,Fungal Infections,Antifungal medication,2,Poodle,Neutral,3,3
+6,Hypersensitivity Allergic,Anti-allergy medication,6,Labrador,Positive,5,1
+16,Bacterial Dermatosis,Antibiotics,2,Labrador,Positive,5,2
+1,Bacterial Dermatosis,Antibiotics,1,Labrador,Positive,5,1
+2,Fungal Infections,Antifungal medication,3,German Shepherd,Neutral,3,2
+3,Hypersensitivity Allergic,Anti-allergy medication,2,Beagle,Positive,4,1
+4,Bacterial Dermatosis,Antibiotics,5,Bulldog,Negative,2,4
+5,Fungal Infections,Antifungal medication,3,Poodle,Neutral,3,3
+6,Hypersensitivity Allergic,Anti-allergy medication,2,Labrador,Positive,5,1

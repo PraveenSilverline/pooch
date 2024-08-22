@@ -1,0 +1,296 @@
+﻿Breed,Age (Months),Weight (lb),Gender ,Energy Level,Health Concerns,Weight Goal max (lb),Recommended Exercise Duration (minutes)
+German Shepherd,1,8,Male,Medium,None,7.25,30 minutes
+German Shepherd,2,20,Male,Medium,None,18,30 minutes
+German Shepherd,3,30,Male,Medium,None,26,30 minutes
+German Shepherd,4,38,Male,High,None,37.5,45 minutes
+German Shepherd,5,47,Male,High,None,44.5,45 minutes
+German Shepherd,6,56,Male,High,None,53,45 minutes
+German Shepherd,7,63,Male,High,None,59.5,60 minutes
+German Shepherd,8,68,Male,High,None,64,60 minutes
+German Shepherd,9,71,Male,High,None,67.5,60 minutes
+German Shepherd,10,73,Male,High,None,69.5,60 minutes
+German Shepherd,11,76,Male,High,None,73,60 minutes
+German Shepherd,12,78,Male,High,None,75,60 minutes
+German Shepherd,18,78,Male,High,None,75,60 minutes
+German Shepherd,24,80,Male,High,None,77.5,60 minutes
+German Shepherd,30,88,Male,High,None,83.5,90 minutes
+German Shepherd,36,88,Male,High,None,83.5,90 minutes
+German Shepherd,42,93,Male,High,None,88,90 minutes
+German Shepherd,48,93,Male,High,None,88,90 minutes
+German Shepherd,54,93,Male,High,None,88,90 minutes
+German Shepherd,60,93,Male,High,None,88,90 minutes
+German Shepherd,66,93,Male,High,None,88,90 minutes
+German Shepherd,72,93,Male,High,None,88,90 minutes
+German Shepherd,78,93,Male,High,None,88,90 minutes
+German Shepherd,84,93,Male,High,None,88,90 minutes
+German Shepherd,90,88,Male,Medium,None,88,45 minutes
+German Shepherd,96,88,Male,Medium,None,88,45 minutes
+German Shepherd,102,88,Male,Medium,None,88,30 minutes
+German Shepherd,108,88,Male,Medium,None,88,30 minutes
+German Shepherd,114,88,Male,Medium,None,88,30 minutes
+German Shepherd,120,88,Male,Medium,None,88,30 minutes
+German Shepherd,1,7,Female,Medium,None,6.25,30 minutes
+German Shepherd,2,16,Female,Medium,None,14,30 minutes
+German Shepherd,3,23,Female,Medium,None,21.5,45 minutes
+German Shepherd,4,29,Female,Medium,None,33,45 minutes
+German Shepherd,5,35,Female,Medium,None,39.5,45 minutes
+German Shepherd,6,40,Female,Medium,None,46.5,45 minutes
+German Shepherd,7,58,Female,High,None,51,60 minutes
+German Shepherd,8,62,Female,High,None,55,60 minutes
+German Shepherd,9,64,Female,High,None,57.5,60 minutes
+German Shepherd,10,65,Female,High,None,59.5,60 minutes
+German Shepherd,11,67,Female,High,None,62,60 minutes
+German Shepherd,12,68,Female,High,None,62,60 minutes
+German Shepherd,18,68,Female,High,None,63,60 minutes
+German Shepherd,24,73,Female,High,None,68,60 minutes
+German Shepherd,30,75,Female,High,None,68,60 minutes
+German Shepherd,36,77,Female,High,None,70,60 minutes
+German Shepherd,42,77,Female,High,None,70,60 minutes
+German Shepherd,48,77,Female,High,None,70,60 minutes
+German Shepherd,54,77,Female,High,None,70,60 minutes
+German Shepherd,60,77,Female,High,None,70,60 minutes
+German Shepherd,66,77,Female,High,None,70,60 minutes
+German Shepherd,72,77,Female,High,None,70,60 minutes
+German Shepherd,78,77,Female,High,None,70,60 minutes
+German Shepherd,84,73,Female,High,None,70,45 minutes
+German Shepherd,90,73,Female,High,None,70,45 minutes
+German Shepherd,96,73,Female,Medium,None,70,45 minutes
+German Shepherd,102,73,Female,Medium,None,70,30 minutes
+German Shepherd,108,73,Female,Medium,None,70,30 minutes
+German Shepherd,114,73,Female,Medium,None,70,30 minutes
+German Shepherd,120,73,Female,Medium,None,70,30 minutes
+Boxer,1,12,Male,Medium,None,7.25,30 minutes
+Boxer,2,21,Male,Medium,None,18,30 minutes
+Boxer,3,27,Male,Medium,None,24,30 minutes
+Boxer,4,36,Male,Medium,None,32.5,45 minutes
+Boxer,5,43,Male,Medium,None,38,45 minutes
+Boxer,6,50,Male,Medium,None,44.5,45 minutes
+Boxer,7,58,Male,High,None,51.5,60 minutes
+Boxer,8,60,Male,High,None,53.5,60 minutes
+Boxer,9,63,Male,High,None,56.5,60 minutes
+Boxer,10,66,Male,High,None,59,60 minutes
+Boxer,11,68,Male,High,None,61.5,60 minutes
+Boxer,12,69,Male,High,None,62.5,60 minutes
+Boxer,18,72,Male,High,None,65,60 minutes
+Boxer,24,72,Male,High,None,65,60 minutes
+Boxer,30,75,Male,High,None,70,90 minutes
+Boxer,36,75,Male,High,None,70,90 minutes
+Boxer,42,75,Male,High,None,70,90 minutes
+Boxer,48,75,Male,High,None,70,90 minutes
+Boxer,54,75,Male,High,None,70,90 minutes
+Boxer,60,75,Male,High,None,70,90 minutes
+Boxer,66,75,Male,High,None,70,90 minutes
+Boxer,72,75,Male,High,None,70,90 minutes
+Boxer,78,75,Male,High,None,70,90 minutes
+Boxer,84,75,Male,High,None,70,90 minutes
+Boxer,90,75,Male,High,None,70,90 minutes
+Boxer,1,11,Female,Medium,None,6.25,30 minutes
+Boxer,2,16,Female,Medium,None,14,30 minutes
+Boxer,3,24,Female,Medium,None,24,30 minutes
+Boxer,4,30,Female,High,None,29,45 minutes
+Boxer,5,38,Female,High,None,35,45 minutes
+Boxer,6,45,Female,High,None,41.5,45 minutes
+Boxer,7,52,Female,High,None,47,60 minutes
+Boxer,8,58,Female,High,None,51,60 minutes
+Boxer,9,64,Female,High,None,55.5,60 minutes
+Boxer,10,64,Female,High,None,55.5,60 minutes
+Boxer,11,64,Female,High,None,55.5,60 minutes
+Boxer,12,64,Female,High,None,56.5,60 minutes
+Boxer,18,69,Female,High,None,59,60 minutes
+Boxer,24,72,Female,High,None,60,60 minutes
+Boxer,30,77,Female,High,None,65,90 minutes
+Boxer,36,77,Female,High,None,65,90 minutes
+Boxer,42,77,Female,High,None,65,90 minutes
+Boxer,48,77,Female,High,None,65,90 minutes
+Boxer,54,64,Female,High,None,65,90 minutes
+Boxer,60,64,Female,High,None,65,90 minutes
+Boxer,66,64,Female,High,None,65,90 minutes
+Boxer,72,64,Female,High,None,65,90 minutes
+Boxer,78,69,Female,High,None,65,90 minutes
+Boxer,84,72,Female,High,None,65,90 minutes
+Boxer,90,64,Female,High,None,65,45 minutes
+Boxer,96,64,Female,Medium,None,65,45 minutes
+Boxer,102,64,Female,Medium,None,65,30 minutes
+Boxer,108,64,Female,Medium,None,65,30 minutes
+Boxer,114,69,Female,Medium,None,65,30 minutes
+Boxer,120,72,Female,Medium,None,65,30 minutes
+Rottweiler,1,14,Male,Medium,None,6,30 minutes
+Rottweiler,2,36.5,Male,Medium,None,14,30 minutes
+Rottweiler,3,47.5,Male,Medium,None,36.5,30 minutes
+Rottweiler,4,57.5,Male,High,None,47.5,45 minutes
+Rottweiler,5,67.5,Male,High,None,57.5,45 minutes
+Rottweiler,6,76,Male,High,None,67.5,45 minutes
+Rottweiler,7,80,Male,High,None,76,60 minutes
+Rottweiler,8,97.5,Male,High,None,80,60 minutes
+Rottweiler,9,102.5,Male,High,None,97.5,60 minutes
+Rottweiler,10,105,Male,High,None,102.5,60 minutes
+Rottweiler,11,110,Male,High,None,105,60 minutes
+Rottweiler,12,115,Male,High,None,110,60 minutes
+Rottweiler,18,115,Male,High,None,115,60 minutes
+Rottweiler,24,130,Male,High,None,115,60 minutes
+Rottweiler,30,130,Male,High,None,130,90 minutes
+Rottweiler,36,130,Male,High,None,130,90 minutes
+Rottweiler,42,130,Male,High,None,130,90 minutes
+Rottweiler,48,130,Male,High,None,130,90 minutes
+Rottweiler,54,130,Male,High,None,130,90 minutes
+Rottweiler,60,130,Male,High,None,130,90 minutes
+Rottweiler,66,130,Male,High,None,130,90 minutes
+Rottweiler,72,130,Male,High,None,130,90 minutes
+Rottweiler,78,130,Male,High,None,130,90 minutes
+Rottweiler,84,130,Male,High,None,130,90 minutes
+Rottweiler,90,130,Male,High,None,130,45 minutes
+Rottweiler,96,130,Male,High,None,130,45 minutes
+Rottweiler,102,130,Male,Medium,None,130,30 minutes
+Rottweiler,108,130,Male,Medium,None,130,30 minutes
+Rottweiler,114,130,Male,Medium,None,130,30 minutes
+Rottweiler,120,130,Male,Medium,None,130,30 minutes
+Rottweiler,1,12,Female,Medium,None,4.5,30 minutes
+Rottweiler,2,32.5,Female,Medium,None,12,30 minutes
+Rottweiler,3,38.5,Female,Medium,None,32.5,30 minutes
+Rottweiler,4,50,Female,High,None,38.5,45 minutes
+Rottweiler,5,61.5,Female,High,None,50,45 minutes
+Rottweiler,6,67.5,Female,High,None,61.5,45 minutes
+Rottweiler,7,72.5,Female,High,None,67.5,60 minutes
+Rottweiler,8,75,Female,High,None,72.5,60 minutes
+Rottweiler,9,80,Female,High,None,75,60 minutes
+Rottweiler,10,82.5,Female,High,None,80,60 minutes
+Rottweiler,11,87.5,Female,High,None,82.5,60 minutes
+Rottweiler,12,90,Female,High,None,87.5,60 minutes
+Rottweiler,18,90,Female,High,None,90,60 minutes
+Rottweiler,24,105,Female,High,None,90,60 minutes
+Rottweiler,30,105,Female,High,None,105,90 minutes
+Rottweiler,36,105,Female,High,None,105,90 minutes
+Rottweiler,42,105,Female,High,None,105,90 minutes
+Rottweiler,48,105,Female,High,None,105,90 minutes
+Rottweiler,54,105,Female,High,None,105,90 minutes
+Rottweiler,60,105,Female,High,None,105,90 minutes
+Rottweiler,66,105,Female,High,None,105,90 minutes
+Rottweiler,72,105,Female,High,None,105,90 minutes
+Rottweiler,78,105,Female,High,None,105,90 minutes
+Rottweiler,84,105,Female,High,None,105,90 minutes
+Rottweiler,90,105,Female,High,None,105,45 minutes
+Rottweiler,96,105,Female,High,None,105,45 minutes
+Rottweiler,102,105,Female,Medium,None,105,30 minutes
+Rottweiler,108,105,Female,Medium,None,105,30 minutes
+Rottweiler,114,105,Female,Medium,None,105,30 minutes
+Rottweiler,120,105,Female,Medium,None,105,30 minutes
+Doberman,1,20,Male,Medium,None,7.5,30 minutes
+Doberman,2,30,Male,Medium,None,20,30 minutes
+Doberman,3,42.5,Male,Medium,None,30,30 minutes
+Doberman,4,50,Male,Medium,None,42.5,45 minutes
+Doberman,5,57.5,Male,High,None,50,45 minutes
+Doberman,6,62.5,Male,High,None,57.5,45 minutes
+Doberman,7,67.5,Male,High,None,62.5,60 minutes
+Doberman,8,72.5,Male,High,None,67.5,60 minutes
+Doberman,9,77.5,Male,High,None,72.5,60 minutes
+Doberman,10,80,Male,High,None,77.5,60 minutes
+Doberman,11,85,Male,High,None,80,60 minutes
+Doberman,12,87.5,Male,High,None,85,60 minutes
+Doberman,18,88,Male,High,None,87.5,60 minutes
+Doberman,24,89,Male,High,None,88,60 minutes
+Doberman,30,89,Male,High,None,89,90 minutes
+Doberman,36,89,Male,High,None,89,90 minutes
+Doberman,42,89,Male,High,None,89,90 minutes
+Doberman,48,89,Male,High,None,89,90 minutes
+Doberman,54,89,Male,High,None,89,90 minutes
+Doberman,60,89,Male,High,None,89,90 minutes
+Doberman,66,89,Male,High,None,89,90 minutes
+Doberman,72,89,Male,High,None,89,90 minutes
+Doberman,78,89,Male,High,None,89,90 minutes
+Doberman,84,89,Male,High,None,89,90 minutes
+Doberman,90,89,Male,Medium,None,89,45 minutes
+Doberman,96,89,Male,Medium,None,89,45 minutes
+Doberman,102,89,Male,Medium,None,89,30 minutes
+Doberman,108,89,Male,Medium,None,89,30 minutes
+Doberman,114,89,Male,Medium,None,89,30 minutes
+Doberman,120,89,Male,Medium,None,89,30 minutes
+Doberman,1,15,Female,Medium,None,7.5,30 minutes
+Doberman,2,25,Female,Medium,None,15,30 minutes
+Doberman,3,40,Female,Medium,None,25,30 minutes
+Doberman,4,45,Female,Medium,None,40,45 minutes
+Doberman,5,50,Female,High,None,45,45 minutes
+Doberman,6,55,Female,High,None,50,45 minutes
+Doberman,7,60,Female,High,None,55,60 minutes
+Doberman,8,65,Female,High,None,60,60 minutes
+Doberman,9,67.5,Female,High,None,65,60 minutes
+Doberman,10,70,Female,High,None,67.5,60 minutes
+Doberman,11,72.5,Female,High,None,70,60 minutes
+Doberman,12,75,Female,High,None,72.5,60 minutes
+Doberman,18,75,Female,High,None,75,60 minutes
+Doberman,24,80,Female,High,None,75,60 minutes
+Doberman,30,80,Female,High,None,80,90 minutes
+Doberman,36,80,Female,High,None,80,90 minutes
+Doberman,42,80,Female,High,None,80,90 minutes
+Doberman,48,80,Female,High,None,80,90 minutes
+Doberman,54,80,Female,High,None,80,90 minutes
+Doberman,60,80,Female,High,None,80,90 minutes
+Doberman,66,80,Female,High,None,80,90 minutes
+Doberman,72,80,Female,High,None,80,90 minutes
+Doberman,78,80,Female,High,None,80,90 minutes
+Doberman,84,80,Female,High,None,80,90 minutes
+Doberman,90,80,Female,High,None,80,45 minutes
+Doberman,96,80,Female,Medium,None,80,45 minutes
+Doberman,102,80,Female,Medium,None,80,30 minutes
+Doberman,108,80,Female,Medium,None,80,30 minutes
+Doberman,114,80,Female,Medium,None,80,30 minutes
+Doberman,120,80,Female,Medium,None,80,30 minutes
+Pitbull Terrier,1,10,Male,Medium,None,4,30 minutes
+Pitbull Terrier,2,15,Male,Medium,None,10,30 minutes
+Pitbull Terrier,3,20,Male,Medium,None,15,30 minutes
+Pitbull Terrier,4,22.5,Male,Medium,None,20,45 minutes
+Pitbull Terrier,5,27.5,Male,High,None,22.5,45 minutes
+Pitbull Terrier,6,30,Male,High,None,27.5,45 minutes
+Pitbull Terrier,7,35,Male,High,None,30,60 minutes
+Pitbull Terrier,8,37.5,Male,High,None,35,60 minutes
+Pitbull Terrier,9,37.5,Male,High,None,37.5,60 minutes
+Pitbull Terrier,10,42.5,Male,High,None,37.5,60 minutes
+Pitbull Terrier,11,42.5,Male,High,None,42.5,60 minutes
+Pitbull Terrier,12,47.5,Male,High,None,42.5,60 minutes
+Pitbull Terrier,18,47.5,Male,High,None,47.5,60 minutes
+Pitbull Terrier,24,50,Male,High,None,47.5,60 minutes
+Pitbull Terrier,30,60,Male,High,None,50,90 minutes
+Pitbull Terrier,36,60,Male,High,None,60,90 minutes
+Pitbull Terrier,42,60,Male,High,None,60,90 minutes
+Pitbull Terrier,48,60,Male,High,None,60,90 minutes
+Pitbull Terrier,54,60,Male,High,None,60,90 minutes
+Pitbull Terrier,60,60,Male,High,None,60,90 minutes
+Pitbull Terrier,66,60,Male,High,None,60,90 minutes
+Pitbull Terrier,72,60,Male,High,None,60,90 minutes
+Pitbull Terrier,78,60,Male,High,None,60,90 minutes
+Pitbull Terrier,84,60,Male,High,None,60,90 minutes
+Pitbull Terrier,90,60,Male,High,None,60,45 minutes
+Pitbull Terrier,96,60,Male,High,None,60,45 minutes
+Pitbull Terrier,102,60,Male,Medium,None,60,30 minutes
+Pitbull Terrier,108,60,Male,Medium,None,60,30 minutes
+Pitbull Terrier,114,60,Male,Medium,None,60,30 minutes
+Pitbull Terrier,120,86,Male,Medium,None,60,30 minutes
+Pitbull Terrier,1,10,Female,Medium,None,3,30 minutes
+Pitbull Terrier,2,15,Female,Medium,None,10,30 minutes
+Pitbull Terrier,3,15,Female,Medium,None,15,30 minutes
+Pitbull Terrier,4,20,Female,Medium,None,15,45 minutes
+Pitbull Terrier,5,22.5,Female,High,None,20,45 minutes
+Pitbull Terrier,6,27.5,Female,High,None,22.5,45 minutes
+Pitbull Terrier,7,27.5,Female,High,None,27.5,60 minutes
+Pitbull Terrier,8,30,Female,High,None,27.5,60 minutes
+Pitbull Terrier,9,32.5,Female,High,None,30,60 minutes
+Pitbull Terrier,10,40,Female,High,None,32.5,60 minutes
+Pitbull Terrier,11,40,Female,High,None,40,60 minutes
+Pitbull Terrier,12,40,Female,High,None,40,60 minutes
+Pitbull Terrier,18,40,Female,High,None,40,60 minutes
+Pitbull Terrier,24,50,Female,High,None,40,60 minutes
+Pitbull Terrier,30,50,Female,High,None,50,90 minutes
+Pitbull Terrier,36,50,Female,High,None,50,90 minutes
+Pitbull Terrier,42,50,Female,High,None,50,90 minutes
+Pitbull Terrier,48,50,Female,High,None,50,90 minutes
+Pitbull Terrier,54,50,Female,High,None,50,90 minutes
+Pitbull Terrier,60,50,Female,High,None,50,90 minutes
+Pitbull Terrier,66,50,Female,High,None,50,90 minutes
+Pitbull Terrier,72,50,Female,High,None,50,90 minutes
+Pitbull Terrier,78,50,Female,High,None,50,90 minutes
+Pitbull Terrier,84,50,Female,High,None,50,90 minutes
+Pitbull Terrier,90,50,Female,High,None,50,45 minutes
+Pitbull Terrier,96,50,Female,Medium,None,50,45 minutes
+Pitbull Terrier,102,50,Female,Medium,None,50,30 minutes
+Pitbull Terrier,108,50,Female,Medium,None,50,30 minutes
+Pitbull Terrier,114,50,Female,Medium,None,50,30 minutes
+Pitbull Terrier,120,56,Female,Medium,None,50,30 minutes
